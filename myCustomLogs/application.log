@@ -1,0 +1,149 @@
+2024-05-10 14:06:41.041 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Starting Esercizio91ServiziLoggingApplication using Java 22.0.1 with PID 23024 (C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging\target\classes started by klodd in C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging)
+2024-05-10 14:06:41.046 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 14:06:41.161 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 14:06:41.163 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 14:06:42.559 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-10 14:06:42.573 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:06:42.576 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-10 14:06:42.577 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 14:06:42.639 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-10 14:06:42.641 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1475 ms
+2024-05-10 14:06:43.136 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-10 14:06:43.153 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:06:43.179 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-10 14:06:43.189 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Started Esercizio91ServiziLoggingApplication in 2.962 seconds (process running for 3.612)
+2024-05-10 14:06:49.727 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 14:06:49.727 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-10 14:06:49.728 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-10 14:06:49.787 [http-nio-8080-exec-1] INFO  d.e.services.ExponentService - Inizio del calcolo dell'esponente
+2024-05-10 14:06:49.788 [http-nio-8080-exec-1] INFO  d.e.services.ExponentService - Calcolo dell'esponente terminato, ecco il risultato: 256
+2024-05-10 14:07:07.275 [http-nio-8080-exec-3] INFO  d.e.controllers.MyController - Benvenuti nella mia applicazione Spring!
+2024-05-10 14:07:52.078 [http-nio-8080-exec-5] ERROR d.e.controllers.MyController - Attention! An error occurred! : java.lang.Error: This is a custom error made by Claudio
+2024-05-10 14:13:51.975 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Starting Esercizio91ServiziLoggingApplication using Java 22.0.1 with PID 18692 (C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging\target\classes started by klodd in C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging)
+2024-05-10 14:13:51.979 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 14:13:52.066 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 14:13:52.067 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 14:13:53.715 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-10 14:13:53.745 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:13:53.750 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-10 14:13:53.751 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 14:13:53.834 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-10 14:13:53.836 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1767 ms
+2024-05-10 14:13:54.470 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-10 14:13:54.499 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:13:54.540 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-10 14:13:54.555 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Started Esercizio91ServiziLoggingApplication in 3.289 seconds (process running for 3.94)
+2024-05-10 14:14:10.517 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 14:14:10.518 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-10 14:14:10.520 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-10 14:14:10.564 [http-nio-8080-exec-1] INFO  d.e.controllers.MyController - Benvenuti nella mia applicazione Spring!
+2024-05-10 14:14:30.442 [http-nio-8080-exec-3] INFO  d.e.services.ExponentService - Inizio del calcolo dell'esponente
+2024-05-10 14:14:30.443 [http-nio-8080-exec-3] INFO  d.e.services.ExponentService - Calcolo dell'esponente terminato, ecco il risultato: 256
+2024-05-10 14:14:41.770 [http-nio-8080-exec-5] ERROR d.e.controllers.MyController - Attention! An error occurred! : java.lang.Error: This is a custom error made by Claudio
+2024-05-10 14:15:28.148 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Starting Esercizio91ServiziLoggingApplication using Java 22.0.1 with PID 12000 (C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging\target\classes started by klodd in C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging)
+2024-05-10 14:15:28.152 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 14:15:28.238 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 14:15:28.238 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 14:15:29.621 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-10 14:15:29.636 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:15:29.639 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-10 14:15:29.640 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 14:15:29.727 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-10 14:15:29.730 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1489 ms
+2024-05-10 14:15:30.241 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-10 14:15:30.256 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:15:30.283 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-10 14:15:30.294 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Started Esercizio91ServiziLoggingApplication in 2.819 seconds (process running for 3.518)
+2024-05-10 14:15:39.758 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 14:15:39.758 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-10 14:15:39.759 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-10 14:15:39.805 [http-nio-8080-exec-1] ERROR d.e.controllers.MyController - Attention! An error occurred! : 
+java.lang.Error: This is a custom error made by Claudio
+	at develhope.esercizio91servizilogging.controllers.MyController.getError(MyController.java:35)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+2024-05-10 14:15:59.379 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Starting Esercizio91ServiziLoggingApplication using Java 22.0.1 with PID 20200 (C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging\target\classes started by klodd in C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging)
+2024-05-10 14:15:59.382 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 14:15:59.465 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 14:15:59.465 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 14:16:00.903 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-10 14:16:00.920 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:16:00.923 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-10 14:16:00.924 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 14:16:00.991 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-10 14:16:00.993 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1525 ms
+2024-05-10 14:16:01.561 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-10 14:16:01.585 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:16:01.633 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-10 14:16:01.649 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Started Esercizio91ServiziLoggingApplication in 3.045 seconds (process running for 3.705)
+2024-05-10 14:16:06.615 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 14:16:06.615 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-10 14:16:06.616 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-10 14:16:06.669 [http-nio-8080-exec-2] ERROR d.e.controllers.MyController - Attention! An error occurred! : java.lang.Error: This is a custom error made by Claudio
+2024-05-10 14:17:59.216 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Starting Esercizio91ServiziLoggingApplication using Java 22.0.1 with PID 8140 (C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging\target\classes started by klodd in C:\Users\klodd\IdeaProjects\esercizio 91 - servizi-logging)
+2024-05-10 14:17:59.221 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 14:17:59.312 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 14:17:59.313 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 14:18:00.698 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-10 14:18:00.714 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:18:00.718 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-10 14:18:00.718 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 14:18:00.785 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-10 14:18:00.787 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1471 ms
+2024-05-10 14:18:01.289 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-10 14:18:01.307 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-10 14:18:01.345 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-10 14:18:01.359 [restartedMain] INFO  d.e.Esercizio91ServiziLoggingApplication - Started Esercizio91ServiziLoggingApplication in 2.888 seconds (process running for 3.522)
+2024-05-10 14:20:44.900 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 14:20:44.900 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-10 14:20:44.901 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-05-10 14:20:44.942 [http-nio-8080-exec-1] INFO  d.e.controllers.MyController - Benvenuti nella mia applicazione Spring!
+2024-05-10 14:20:54.112 [http-nio-8080-exec-3] INFO  d.e.services.ExponentService - Inizio del calcolo dell'esponente
+2024-05-10 14:20:54.112 [http-nio-8080-exec-3] INFO  d.e.services.ExponentService - Calcolo dell'esponente terminato, ecco il risultato: 256
+2024-05-10 14:21:02.043 [http-nio-8080-exec-4] ERROR d.e.controllers.MyController - Attention! An error occurred! : java.lang.Error: This is a custom error made by Claudio
